@@ -4,7 +4,7 @@ import datetime
 import time
 import threading
 
-bot = telebot.TeleBot('7310069333:AAHmo8AWWjC2f72jduffh8rVLIKIjJT8RNk')
+bot = telebot.TeleBot('Здесь должен быть ваш токен')
 
 
 @bot.message_handler(commands=['start'])
